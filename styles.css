@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    text-align: right;
+    text-align: justify;
+    font-family: "Lucida Sans", sans-serif;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+}
+
+.border {
+    border: solid;
+}
+
+.border-red {
+    border: solid red;
+}
